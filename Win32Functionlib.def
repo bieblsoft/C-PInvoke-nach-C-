@@ -1,0 +1,3 @@
+LIBRARY	"Win32FunctionLib"
+EXPORTS
+	fnWin32FunctionLib @1
